@@ -10,7 +10,7 @@ const CAFE_CONFIG = {
     
     // ═══ لینک گوگل شیت ═══
     // راهنما: از گوگل شیت خود، File > Share > Publish to web > CSV را انتخاب کنید
-    googleSheetURL: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vS6PUzQQzzPHFf5-QOpL58JWOFwUTKFzs3vi95mCHJQVB6efWYoMzTCs7wQ9bWRZw7k1OO6_9CuylCl/pub?output=csv',
+    googleSheetURL: 'https://docs.google.com/spreadsheets/d/1v--SO4rOP2VdzkK3Jcr0VfxILAZsvgR0T3FbXZxKmjs/edit?usp=drivesdk',
     
     // ═══ رنگ‌بندی هوشمند ═══
     // با تغییر رنگ اصلی، رنگ هاور، اکتیو و متن به صورت خودکار تنظیم می‌شود.
